@@ -1,1 +1,1 @@
-portfolio website - add eduction information and projects
+portfolio website - add introduction , eduction information and projects
